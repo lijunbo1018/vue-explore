@@ -1,0 +1,22 @@
+{
+  "name": "vue-explore",
+  "version": "1.0.0",
+  "description": "learn Vue.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lijunbo1018/vue-explore.git"
+  },
+  "keywords": [
+    "Vue.js"
+  ],
+  "author": "lijunbo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lijunbo1018/vue-explore/issues"
+  },
+  "homepage": "https://github.com/lijunbo1018/vue-explore#readme"
+}
